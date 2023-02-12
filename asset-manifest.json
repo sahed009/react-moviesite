@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sahed009/react-moviesite.git/static/css/main.212163c8.css",
+    "main.js": "/sahed009/react-moviesite.git/static/js/main.6b4ad6f7.js",
+    "index.html": "/sahed009/react-moviesite.git/index.html",
+    "static/media/search.svg": "/sahed009/react-moviesite.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.212163c8.css.map": "/sahed009/react-moviesite.git/static/css/main.212163c8.css.map",
+    "main.6b4ad6f7.js.map": "/sahed009/react-moviesite.git/static/js/main.6b4ad6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212163c8.css",
+    "static/js/main.6b4ad6f7.js"
+  ]
+}
